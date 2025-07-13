@@ -1,0 +1,26 @@
+HTML	
+	UNORDER LIST	
+	
+	DISCRIPATION LIST	
+		SYNTAX:-
+			<dl>
+				<dt>DISCRIPATION TERMS & CONDITIONS</dt>
+				<dd>Description</dd>
+			</dl>
+			
+	TABLE
+		SYNTAX:-
+			<table border>
+				<tr>
+					<th>VALUE</th>
+				</tr>
+			</table>
+			
+	MERGE ROW
+			<th rowspan="VALUE"></th>
+			
+	MERGE COLLUMN 
+			<th calspan="VALUE"></th>
+			
+	FOR SPACE BETWEEN CONTANCT AND LINE
+			<th rowspan="VALUE" cellpadding="VALUE" cellspacing="VALUE"></th>
